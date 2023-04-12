@@ -1,0 +1,7 @@
+
+contaxts : cd /u01/uat/DataDownloader/Context/
+EISCD.Default.DataDownloader.AWS.UAT.cfg
+
+sftp: /Validatetl
+
+uat  : /u01/uat/DataDownloader/Downloads/EISCDData/
